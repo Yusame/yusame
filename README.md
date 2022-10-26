@@ -1,55 +1,35 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-<style>
-  h2 {
-    text-align: center;
-  }
-  .icon-section {
-    display: block;
-    padding: 20px 20px 1px 20px;
-    background-color:#ffffff;
-    border-radius: 25px;
-    text-align: center;
-  }
-</style>
-
 <div align="center">
-  
+
 <h1>Hi there 👋, I'm Elina Ollier</h1>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=30&duration=2500&pause=200&color=DC5C5C&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Front-end+developer;Webdesigner)](https://git.io/typing-svg)
 </div>
 
-<h2>🐱‍👤 About Me</h1>
-<hr/>
-<p align="center">React lover ❤️ & User-Centered Designer ✍</p>
+<h2 align="center">🐱‍👤 About Me</h1>
+
+<p align="center">React lover ❤️ & User-Centered Design ✍</p>
 <!-- <p align="center"><a href="#" >🌊 Portfolio</a></p> -->
 <br/>
 
-◻️ 💻 I’m currently working on <i class="devicon-react-original colored"></i>
-ReactJS
+◻️ 💻 I’m currently working on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="14"/> ReactJS
 
-◻️ 🧪 I’m currently learning <i class="devicon-nextjs-original colored"></i>
-Next.JS
+◻️ 🧪 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="14"/> Next.JS
 
-◻️ 💭 I hope to work on <i class="devicon-threejs-original colored"></i>
-Three.js or <i class="devicon-nestjs-plain colored"></i>
- NestJS next
+◻️ 💭 I hope to work on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="14"/> Three.js or <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="14"/> NestJS next
 
 ◻️ 🔎 How to reach me: send me an <a href="mailto:elina.ollier@hotmail.fr">email</a> or contact me via 
 <a href="https://www.linkedin.com/in/elina-ollier/">
-  <i class="devicon-linkedin-plain colored"></i> Linkedin
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14"/> Linkedin
 </a> !
 
 ◻️ ⚡ Activities: 🎮 Videos games / 🎞 Animes & 📕 Webtoons / 🎯 Archery
 
 <br/>
 
-<h2>🐱‍🏍 Languages, Libraries and Frameworks</h1>
-<hr/>
+<h2 align="center">🐱‍🏍 Languages, Libraries and Frameworks</h1>
 
-<div class="icon-section">
-  <p>
+<div>
+  <p align="center">
     <a href="https://www.w3.org/html/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
     </a>
@@ -69,7 +49,7 @@ Three.js or <i class="devicon-nestjs-plain colored"></i>
       <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" alt="typescript" width="40" height="40"/>
     </a>
   </p>
-  <p>
+  <p align="center">
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react js" width="40" height="40"/>
     </a>
@@ -86,7 +66,7 @@ Three.js or <i class="devicon-nestjs-plain colored"></i>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
     </a>
   </p>
-  <p>
+  <p align="center">
     <a href="https://angular.io/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
     </a>
@@ -98,11 +78,10 @@ Three.js or <i class="devicon-nestjs-plain colored"></i>
 
 <br/>
 
-<h2>🚀 Environment</h1>
-<hr/>
+<h2 align="center">🚀 Environment</h1>
 
-<div class="icon-section">
-  <p>
+<div>
+  <p align="center">
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="60"/>
     </a>
@@ -122,7 +101,7 @@ Three.js or <i class="devicon-nestjs-plain colored"></i>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="60" height="60"/>
     </a>
   </p>
-  <p>
+  <p align="center">
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/>
     </a>
@@ -140,11 +119,10 @@ Three.js or <i class="devicon-nestjs-plain colored"></i>
 
 <br/>
 
-<h2>💿 Softwares</h1>
-<hr/>
+<h2 align="center">💿 Softwares</h1>
 
-<div class="icon-section">
-  <p>
+<div>
+  <p align="center">
     <a href="https://postman.com" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
@@ -168,11 +146,10 @@ Three.js or <i class="devicon-nestjs-plain colored"></i>
 
 <br/>
 
-<h2>📌 Other accounts</h1>
-<hr/>
+<h2 align="center">📌 Other accounts</h1>
 
-<div class="icon-section">
-  <p>
+<div>
+  <p align="center">
     <a href="https://codepen.io/elina" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="40"/>
     </a>
@@ -192,7 +169,9 @@ Devicons</a> !</p>
 
 <br>
 
-<h2>🎧 Musics</h1>
-<hr/>
+<h2 align="center">🎧 Musics</h1>
+<div align="center">
 
 ![🎧 Musics](https://spotify-recently-played-readme.vercel.app/api?user=yusame2&count=3&width=600&unique=yes)
+
+</div>
