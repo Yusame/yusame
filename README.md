@@ -15,7 +15,7 @@
 
 ◻️ 🧪 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="14"/> Next.JS
 
-◻️ 💭 I hope to work on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="14"/> Three.js or <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="14"/> NestJS next
+◻️ 💭 I hope to work on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="14"/> Three.js or <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="14"/> NestJS maybe later 
 
 ◻️ 🔎 How to reach me: send me an <a href="mailto:elina.ollier@hotmail.fr">email</a> or contact me via 
 <a href="https://www.linkedin.com/in/elina-ollier/">
@@ -46,18 +46,24 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/docs/" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" alt="typescript" width="40" height="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://graphql.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
     </a>
   </p>
   <p align="center">
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react js" width="40" height="40"/>
     </a>
-    <a href="https://nextjs.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next js" width="40" height="40"/>
-    </a>
     <a href="https://redux.js.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    </a>
+    <a href="https://www.apollographql.com/" target="_blank">
+      <img src="https://cdn.worldvectorlogo.com/logos/apollostack.svg" alt="apollo graphql" width="40" height="40"/>
+    </a>
+    <a href="https://jquery.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
     </a>
     <a href="https://mui.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
@@ -70,8 +76,14 @@
     <a href="https://angular.io/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
     </a>
+    <a href="https://www.gatsbyjs.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" alt="gatsby" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next js" width="40" height="40"/>
+    </a>
     <a href="https://getbootstrap.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
   </p>
 </div>
@@ -126,11 +138,14 @@
     <a href="https://postman.com" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
-    <a href="https://postman.com" target="_blank">
+    <a href="https://dbeaver.io/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="dbeaver" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/fr/products/xd.html" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobe xd" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/fr/products/illustrator.html" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="adobe illustrator" width="40" height="40"/>
