@@ -166,7 +166,7 @@
 <div>
   <p align="center">
     <a href="https://codepen.io/elina" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" alt="codepen" width="40" height="40"/>
     </a>
     <a href="https://www.pinterest.fr/elinaollier/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Pinterest.svg" alt="pinterest" width="40" height="40"/>
